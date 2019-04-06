@@ -7,8 +7,8 @@
     <ProjectGuid>{81514365-DD69-476E-8E90-9DC32B1A652E}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>SupsensionActions</RootNamespace>
-    <AssemblyName>SupsensionActions</AssemblyName>
+    <RootNamespace>SuspensionActions</RootNamespace>
+    <AssemblyName>SuspensionActions</AssemblyName>
     <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
